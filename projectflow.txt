@@ -145,7 +145,3 @@
 
 
 
-faizanashrafds_db_user
-Mi1V1qXwmCSNvNKh
-
-connect string: mongodb+srv://faizanashrafds_db_user:Mi1V1qXwmCSNvNKh@cluster0.8a0jeox.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
